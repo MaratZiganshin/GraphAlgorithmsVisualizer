@@ -1,0 +1,14 @@
+void bfs(startVertex)
+    queue.add(startVertex)
+    color[startVertex] = 1
+    distance[startVertex] = 0
+    while (q.count != 0)
+        v = q.pop()
+        foreach edge adjacent to v
+            end = end of edge
+            if (color[end] == 0)
+                color[end] = 1
+                q.push(end)
+                distance[end] = distance[v] + 1
+                parent[end] = v
+ 

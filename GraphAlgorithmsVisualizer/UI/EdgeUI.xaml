@@ -1,0 +1,33 @@
+﻿<UserControl x:Class="GraphAlgorithmsVisualizer.UI.EdgeUI"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:GraphAlgorithmsVisualizer.UI"
+             mc:Ignorable="d" 
+             x:Name="THIS">
+    <UserControl.Resources>
+        <Style TargetType="{x:Type TextBox}">
+            <Setter Property="Width" Value="{Binding ElementName=THIS, Path=WeightBoxWidth, Mode=TwoWay}"></Setter>
+            <Setter Property="Height" Value="{Binding ElementName=THIS, Path=WeightBoxHeight, Mode=TwoWay}"></Setter>
+            <Setter Property="HorizontalAlignment" Value="Left"></Setter>
+            <Setter Property="VerticalAlignment" Value="Top"></Setter>
+        </Style>
+    </UserControl.Resources>
+    <Grid>
+        <local:Arrow x:Name="arrow" 
+                     Start="{Binding ElementName=THIS, Path=LinePoints.From, Mode=OneWay}" 
+                     End="{Binding ElementName=THIS, Path=LinePoints.To, Mode=OneWay}"
+                     ArrowHeadVisibility="{Binding ElementName=THIS, Path=DirectionVisibility}"></local:Arrow>
+        <local:Arrow x:Name="revertArrow" 
+                     Start="{Binding ElementName=THIS, Path=LinePoints.To, Mode=OneWay}" 
+                     End="{Binding ElementName=THIS, Path=LinePoints.From, Mode=OneWay}"
+                     ArrowHeadVisibility="{Binding ElementName=THIS, Path=RevertedVisibility}"></local:Arrow>
+        <TextBox x:Name="textbox" 
+                 Background="White" 
+                 Margin="{Binding TextTopLeftCorner, ElementName=THIS}" 
+                 TextAlignment="Center"
+                 Visibility="{Binding ElementName=THIS, Path=WeightVisibility}"
+                 PreviewTextInput="NumberValidationTextBox"></TextBox>
+    </Grid>
+</UserControl>

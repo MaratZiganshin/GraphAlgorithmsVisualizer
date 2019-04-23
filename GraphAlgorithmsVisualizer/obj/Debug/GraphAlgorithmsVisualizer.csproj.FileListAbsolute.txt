@@ -1,0 +1,96 @@
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\bin\Debug\AlgorithmCodes\bfs.txt
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\bin\Debug\AlgorithmCodes\dfs.txt
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\bin\Debug\AlgorithmCodes\dijkstra.txt
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\bin\Debug\AlgorithmCodes\kruskal.txt
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\bin\Debug\GraphAlgorithmsVisualizer.exe.config
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\bin\Debug\GraphAlgorithmsVisualizer.exe
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\bin\Debug\GraphAlgorithmsVisualizer.pdb
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\bin\Debug\MaterialDesignColors.dll
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\MainWindow.g.cs
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\UI\Arrow.g.cs
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\UI\CodeLine.g.cs
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\UI\EdgeUI.g.cs
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\UI\VariableLine.g.cs
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\UI\VariablesStack.g.cs
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\UI\VertexDescriptionStack.g.cs
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\UI\VertexUI.g.cs
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\App.g.cs
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\GraphAlgorithmsVisualizer_Content.g.cs
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\GraphAlgorithmsVisualizer_MarkupCompile.cache
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\GraphAlgorithmsVisualizer_MarkupCompile.lref
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\App.baml
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\MainWindow.baml
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\UI\Arrow.baml
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\UI\CodeLine.baml
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\UI\EdgeUI.baml
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\UI\VariableLine.baml
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\UI\VariablesStack.baml
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\UI\VertexDescriptionStack.baml
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\UI\VertexUI.baml
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\GraphAlgorithmsVisualizer.g.resources
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\GraphAlgorithmsVisualizer.Properties.Resources.resources
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\GraphAlgorithmsVisualizer.csproj.GenerateResource.Cache
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\GraphAlgorithmsVisualizer.exe
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\GraphAlgorithmsVisualizer.pdb
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\bin\Debug\AlgorithmCodes\prim.txt
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\bin\Debug\AlgorithmCodes\kahn.txt
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\bin\Debug\AlgorithmCodes\bellmanford.txt
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\bin\Debug\AlgorithmCodes\topsort.txt
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\bin\Debug\AlgorithmCodes\tarjan.txt
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\bin\Debug\AlgorithmCodes\cyclefind.txt
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\UI\OpenErrorWindow.g.cs
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\UI\SelectVertexLabel.g.cs
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\UI\OpenErrorWindow.baml
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\UI\SelectVertexLabel.baml
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\GraphAlgorithmsVisualizer.csprojResolveAssemblyReference.cache
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\UI\GraphGenerateWindow.g.cs
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\UI\GraphGenerateWindow.baml
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\bin\Debug\AlgorithmCodes\kosaraju.txt
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\UI\SaveResultsButton.g.cs
+C:\GitHub\GraphAlgorithmsVisualizer\Graphs Project\obj\Debug\UI\SaveResultsButton.baml
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\bin\Debug\GraphAlgorithmsVisualizer.exe.config
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\GraphAlgorithmsVisualizer.exe
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\GraphAlgorithmsVisualizer.pdb
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\bin\Debug\GraphAlgorithmsVisualizer.exe
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\bin\Debug\GraphAlgorithmsVisualizer.pdb
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\bin\Debug\MaterialDesignColors.dll
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\GraphAlgorithmsVisualizer.csprojResolveAssemblyReference.cache
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\UI\GraphGenerateWindow.g.cs
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\UI\OpenErrorWindow.g.cs
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\MainWindow.g.cs
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\UI\Arrow.g.cs
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\UI\CodeLine.g.cs
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\UI\EdgeUI.g.cs
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\UI\SaveResultsButton.g.cs
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\UI\SelectVertexLabel.g.cs
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\UI\VariableLine.g.cs
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\UI\VariablesStack.g.cs
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\UI\VertexDescriptionStack.g.cs
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\UI\VertexUI.g.cs
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\App.g.cs
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\GraphAlgorithmsVisualizer_MarkupCompile.cache
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\GraphAlgorithmsVisualizer_MarkupCompile.lref
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\App.baml
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\UI\GraphGenerateWindow.baml
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\UI\OpenErrorWindow.baml
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\MainWindow.baml
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\UI\Arrow.baml
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\UI\CodeLine.baml
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\UI\EdgeUI.baml
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\UI\SaveResultsButton.baml
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\UI\SelectVertexLabel.baml
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\UI\VariableLine.baml
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\UI\VariablesStack.baml
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\UI\VertexDescriptionStack.baml
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\UI\VertexUI.baml
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\GraphAlgorithmsVisualizer.g.resources
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\GraphAlgorithmsVisualizer.Properties.Resources.resources
+C:\GitHub\GraphAlgorithmsVisualizer\GraphAlgorithmsVisualizer\obj\Debug\GraphAlgorithmsVisualizer.csproj.GenerateResource.Cache

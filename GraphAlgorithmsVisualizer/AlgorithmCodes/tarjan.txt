@@ -1,0 +1,27 @@
+void strongconnect(v)
+    v.index = index
+    v.lowlink = index
+    index++
+    s.push(v)
+    foreach w adjacent to v
+        if (w.index is undefined)
+            strongconnect(w)
+            v.lowlink = min(v.lowlink, w.lowlink)
+        else if (s.contains(w))
+            v.lowlink = min(v.lowlink, w.index)
+    if (v.lowlink == v.index)
+        component = new strongly connected component
+        do
+            w = s.pop()
+            component.add(w)
+        while (w != v)
+        components.add(component)
+
+void tarjan()
+    index = 0
+    s = empty array
+    components = empty array
+    foreach (v in V)
+        if (v.index is undefined)
+            strongconnect(v)
+ 

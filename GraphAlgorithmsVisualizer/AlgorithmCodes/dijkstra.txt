@@ -1,0 +1,11 @@
+void dijkstra(startVertex)
+    dist[startVertex] = 0
+    while (!list.isEmpty)
+        u = vertex in list with min dist[u]
+        list.remove(u)
+        foreach neighbor v of u
+            alt = dist[u] + length(u, v)
+            if (alt < dist[v])
+                dist[v] = alt
+                prev[v] = u
+ 

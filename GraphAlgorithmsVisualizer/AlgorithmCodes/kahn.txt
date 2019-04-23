@@ -1,0 +1,12 @@
+void kahn()
+    inDegree = number of incoming edges of each edge
+    Q = vertexes with no incoming edges
+    top_order = {}
+    while (!Q.isEmpty())
+        u = Q.pop()
+        top_order.add(u)
+        foreach (v incident to u)
+            inDegree[v]--
+            if (inDegree[v] == 0)
+                Q.push(v)
+ 

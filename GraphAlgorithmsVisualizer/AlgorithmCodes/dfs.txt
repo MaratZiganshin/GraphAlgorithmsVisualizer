@@ -1,0 +1,7 @@
+void dfs(startVertex)
+    color(startVertex) = 1
+    foreach (v adjecive to startVertex)
+        if color(v) == 0
+            dfs(v)
+    color(startVertex) = 2
+	 

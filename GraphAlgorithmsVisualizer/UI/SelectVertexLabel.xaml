@@ -1,0 +1,22 @@
+﻿<UserControl x:Class="GraphAlgorithmsVisualizer.UI.SelectVertexLabel"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:GraphAlgorithmsVisualizer.UI"
+             mc:Ignorable="d" 
+             Height="50" Width="300"
+             VerticalAlignment="Center">
+    <Grid>
+        <Rectangle Fill="CadetBlue" 
+                   Opacity="0.5"
+                   RadiusX="10"
+                   RadiusY="10">
+        </Rectangle>
+        <TextBlock HorizontalAlignment="Center" 
+                   VerticalAlignment="Center" 
+                   FontSize="15">
+            Select a start vertex
+        </TextBlock>
+    </Grid>
+</UserControl>

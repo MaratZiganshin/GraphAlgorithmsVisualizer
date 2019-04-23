@@ -1,0 +1,13 @@
+void dfs(vertex, sorted_list)
+    color(vertex) = 1
+    foreach (v adjecive to vertex)
+        if color(v) == 0
+            dfs(v, sorted_list)
+    sorted_list.Add(vertex)
+
+void topologicalSort()
+    sorted_list = empty list
+    foreach (vertex in graph)
+        if (color(vertex) == 0)
+            dfs(vertex, sorted_list)
+ 

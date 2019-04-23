@@ -1,0 +1,10 @@
+void prim(startVertex)
+    key[startVertex] = 0;
+    Q.add(V)
+    while (!Q.isEmpty())
+        u = Q.popWithMinKey()
+            foreach (v adjacent to u)
+                if (v in Q and w(u, v) < key[v])
+                    parent[v] = u
+                    key[v] = w(u, v)
+ 

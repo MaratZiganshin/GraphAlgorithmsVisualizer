@@ -1,0 +1,23 @@
+void dfs1(v)
+    color[v] = 1
+    foreach u adjancent to v
+        if (color[u] == 0)
+             dfs1(u)
+    ord.Add(v)
+
+void dfs2(v)
+    component[v] = comp
+    foreach u adjancent to v
+        if (component[u] is undefined)
+            dfs2(u)
+
+void kosaraju()
+    foreach (v in V)
+        if (color[v] == 0)
+             dfs1(v)
+    invert all edges
+    foreach (v in ord.reverse())
+        if (component[v] is undefined)
+            dfs2(v)
+            comp++
+ 

@@ -1,0 +1,10 @@
+void kruskal()
+    resultTree = {}
+    foreach (vertex in V)
+        CreateTree(v)
+    sort E by weight
+    foreach (edge (u, v) in E)
+        if (FindTree(u) != FindTree(v))
+            resultTree.add({(u, v)})
+            Unite(u, v)
+ 

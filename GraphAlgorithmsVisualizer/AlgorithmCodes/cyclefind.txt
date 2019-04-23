@@ -1,0 +1,14 @@
+void dfs(v)
+    color(v) = 1
+    foreach (u adjecive to v)
+        if color(u) == 0
+            dfs(u)
+        if color(u) == 1
+            cycle found
+    color(v) = 2
+
+void cycleSearch()
+    foreach (v in V)
+        if (color[v] == 0)
+             dfs(v)
+ 
